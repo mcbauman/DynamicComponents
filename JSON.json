@@ -1,0 +1,59 @@
+{
+    "Werte":[
+        {
+            "key":"Titel",
+            "type":"number",
+            "value":0
+        },
+        {
+            "key":"Auswahl",
+            "type":"select",
+            "value":"",
+            "choices":[
+                "erste Alternative",
+                "zweite Alternative",
+                "dritte Alternative"
+            ]
+        },
+        {
+            "key":"Titel",
+            "type":"text",
+            "value":"lorem ipsum"
+        },
+        {
+            "key":"Titel",
+            "type":"number",
+            "value":1
+        },
+        {
+            "key":"Titel",
+            "type":"text",
+            "value":"lorem ipsum 2"
+        },
+        {
+            "key":"Titel",
+            "type":"number",
+            "value":2
+        },
+        {
+            "key":"Titel",
+            "type":"text",
+            "value":"lorem ipsum 3"
+        },
+        {
+            "key":"Titel",
+            "type":"number",
+            "value":3
+        },
+        {
+            "key":"Titel",
+            "type":"text",
+            "value":"lorem ipsum 4"
+        },
+        {
+            "key":"Titel",
+            "type":"number",
+            "value":4
+        }
+    ]
+}
